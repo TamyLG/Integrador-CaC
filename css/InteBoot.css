@@ -1,0 +1,27 @@
+.mv-caption{
+    right:0;
+    bottom: 14%;
+}
+
+.botones a {
+    font-size: .7rem;
+}
+
+.card:hover {
+    box-shadow: 0 0 15px 0;
+    transform: scale(1.01);
+}
+
+.textoChico {
+    font-size: .8rem;
+}
+
+.bgGrisOscuro {
+    background-color: rgb(65, 65, 65);
+} 
+
+.brilloOscuro {
+    filter:brightness(50%);
+    height: 600px;
+}
+
